@@ -6,5 +6,5 @@ function checkOddEven(num) {
     }
   }
   
-  checkOddEven(10); 
+  checkOddEven(11); 
   checkOddEven(7);  
