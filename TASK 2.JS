@@ -9,5 +9,5 @@ function isPrime(num) {
   }
   
 
-  console.log(isPrime(5));  
+  console.log(isPrime(8));  
   console.log(isPrime(10)); 
