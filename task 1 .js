@@ -12,5 +12,5 @@ function fibonacciSeries(n) {
     return series;
   }
   
-  const n = 10; 
-  console.log(fibonacciSeries(n));
+  const h = 10; 
+  console.log(fibonacciSeries(h));
